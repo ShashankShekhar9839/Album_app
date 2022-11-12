@@ -1,0 +1,12 @@
+.homeCard{
+    height: 35vh;
+    width: 20vw;
+    border-radius: 0.8rem;
+    box-shadow: 0px 10px 14px  black;
+}
+
+.img{
+    height: 100%;
+    width: 100%;
+    border-radius: 0.8rem;
+}
